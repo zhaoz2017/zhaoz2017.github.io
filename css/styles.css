@@ -74,6 +74,10 @@ header {
     padding: 10px 0 40px 0;
 }
 
+iframe {
+    width: 100%;
+}
+
 @media screen and (max-width: 600px) {
     .navigation {
         flex-direction: column;
@@ -83,5 +87,9 @@ header {
     .navigation a {
         margin-right: 0;
         margin-bottom: 10px;
+    }
+
+    .content {
+        padding: 15px;
     }
 }
