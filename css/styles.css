@@ -34,7 +34,7 @@ header {
     color: lightblue;
 }
 
-.navigation a.chosen {
+.chosen .navigation a {
   color: lightblue;
 }
 
