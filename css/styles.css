@@ -34,9 +34,10 @@ header {
     color: lightblue;
 }
 
-.chosen {
-    color: lightblue;
+.navigation a.chosen {
+  color: lightblue;
 }
+
 
 .home {
     position: relative;
