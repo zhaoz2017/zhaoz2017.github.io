@@ -34,6 +34,9 @@ header {
     color: lightblue;
 }
 
+.chosen a {
+    font-weight: 800;
+}
 
 .home {
     position: relative;
